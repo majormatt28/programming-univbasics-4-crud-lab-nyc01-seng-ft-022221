@@ -29,7 +29,7 @@ array [2]
 end
 
 def retrieve_first_element_from_array(array)
-array.index
+array.index(array)
 end
 
 def retrieve_last_element_from_array(array)
